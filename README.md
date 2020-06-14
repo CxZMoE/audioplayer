@@ -5,6 +5,12 @@ A audio play tool running on slave mode - Slave模式音频播放器
 This tool is developed for playing audios.
 It's running under slave mode,so any program written by any language can call it directly.
 
+# Dependency
+`libbass.so`
+`libbassflac.so`
+
+you can find them in this repo,please copy it to /lib
+
 # Usage
 
 ``` shell
