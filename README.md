@@ -9,7 +9,9 @@ It's running under slave mode,so any program written by any language can call it
 `libbass.so`
 `libbassflac.so`
 
-you can find them in this repo,please copy it to /lib
+you can find them in this repo/lib ,please copy it to /lib
+
+If you are using Windows,please recomile the source code and copy .dll in DLL directory to the root directory of the program you compiled.
 
 # Usage
 
