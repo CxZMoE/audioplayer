@@ -79,6 +79,6 @@ change the position to 10s.
 
 # Warning
 
-This tool can only be used for `none-commercial use`,I's using the library of [Un4seen Bass](http://www.un4seen.com/),they only permmited non-commercial use for free. If you want to use this tool for commercial use, you need to buy a licence from them. I'm not responsible for illegal use of this tool.
+This tool can only be used for `none-commercial use`,I'm using the library of [Un4seen Bass](http://www.un4seen.com/),they only permmited non-commercial use for free. If you want to use this tool for commercial use, you need to buy a licence from them. I'm not responsible for illegal use of this tool.
 
 Btw, I may write a audip library myself in the future,but for current convinience of use,I will keep bass library for a period of time.
