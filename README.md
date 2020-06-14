@@ -11,7 +11,7 @@ It's running under slave mode,so any program written by any language can call it
 
 you can find them in this repo/lib ,please copy it to /lib
 
-If you are using Windows,please recomile the source code and copy .dll in DLL directory to the root directory of the program you compiled.
+If you are using Windows,please recompile the source code and copy .dll in DLL directory to the root directory of the program you compiled.
 
 # Usage
 
