@@ -1,0 +1,10 @@
+Package: cxz-audioplayer
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Essential: no
+Installed-Size: 2843504
+Maintainer: https://github.com/CxZMoE
+Description: a easy-to-use audio player running on slave mode. 
+

@@ -1,0 +1,4 @@
+#!/bin/sh
+
+# link program to /usr/bin
+ln -sf /usr/share/cxz-audioplayer/audioplayer /usr/bin/audioplayer
